@@ -1,0 +1,11 @@
+h1{
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+body
+{
+    background-color: rgb(250, 243, 235);
+ background-image: url(http://www.transparenttextures.com/patterns/cubes.png);
+}
